@@ -47,7 +47,7 @@ git clone https://github.com/ThawanST/DesafioAlura-ListaEColecoes.git
 
 2. Abra o projeto no IntelliJ IDEA.
 
-3. Execute o método main da classe Main.java.
+3. Execute o método main da classe Principal.java.
 
 ## 📚 Aprendizados
 Este projeto reforça o uso de listas dinâmicas para armazenar objetos, validações de entrada, encapsulamento de dados e uma aplicação prática de lógica de programação voltada ao mundo real.
